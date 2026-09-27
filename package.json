@@ -21,18 +21,18 @@
   "homepage": "https://github.com/jk1z/GitLab-Release-Note-Generator#readme",
   "dependencies": {
     "chalk": "2.4.2",
-    "lodash": "4.17.15",
-    "moment-timezone": "0.5.25",
-    "parse-link-header": "1.0.1",
-    "request": "2.88.0",
+    "lodash": "4.18.1",
+    "moment-timezone": "0.5.35",
+    "parse-link-header": "2.0.0",
+    "request": "2.88.2",
     "request-promise-native": "1.0.7"
   },
   "devDependencies": {
     "@types/jest": "^24.0.13",
-    "eslint": "^5.16.0",
+    "eslint": "^10.11.0",
     "faker": "^4.1.0",
-    "jest": "^24.8.0",
-    "jest-when": "^2.6.0",
+    "jest": "^30.5.2",
+    "jest-when": "^4.0.3",
     "mockdate": "^2.0.2",
     "nock": "^10.0.6",
     "prettier": "1.17.1"
